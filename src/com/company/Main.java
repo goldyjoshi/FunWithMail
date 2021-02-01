@@ -12,5 +12,6 @@ public class Main {
         emailClient.addEMailInTheEmailList(email3);
         emailClient.searchEmailBySenderName("Vijayshree");
         emailClient.removeEmailFromTheList(5);
+        System.out.println("hello Mail");
     }
 }
